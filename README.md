@@ -1,5 +1,5 @@
 # About
-A dataset containing movies, its genres, and its ratings are manipulated and analyzed in a KMeans clustering model. Utilizing KMeans, groups are identified from watchers in two different sets of movie genres based on thier average ratings among the genres. 
+A dataset containing movies, its genres, and its ratings are manipulated and analyzed in a KMeans clustering model. Utilizing KMeans, groups are identified from watchers of the adventure genre and the comedy genres based on thier average ratings among the genres. 
 
 # Viewing
 This project was done in Python notebook and can be viewed alternatively in Jupyter's nbviewer for the best results.
