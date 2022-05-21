@@ -8,3 +8,4 @@ This project was done in Python notebook and can be viewed alternatively in Jupy
 
 # Data and Assets
 
+Datasets included in this project contain a wide range of movie titles and ratings, from a extended period of time.
